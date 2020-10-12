@@ -6,6 +6,7 @@
   <em>
     My name is Débora Barros, and I'm 19 years old. I love programming, music and read sci-fi. <br>
     I am in the 4th period of graduation in Computer Engineering at <a href="https://www.uninorte.com.br/"> <b>Centro Universitário do Norte - Uninorte</b></a>. <br>
+    I am a student of the July 2020 class, of Full Stack Web Development, at <a href="https://kenzie.com.br/"> <b>Kenzie Academy Brazil</b> </a>. <br>
     A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
     who wants to improve and delve into the world of programming.
   </em>  
