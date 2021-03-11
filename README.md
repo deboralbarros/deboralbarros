@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; I'm studying Computer Engineering at Centro Unversitário do Norte]
+- 🎓 &nbsp; I'm studying Computer Engineering at Centro Unversitário do Norte
 - 🎓 &nbsp; I'm studying Web Development at Kenzie Academy Brasil]
 - I'm 20 years old
 - I'm from Tabatinga - Amazonas, living in Manaus - Amazonas
