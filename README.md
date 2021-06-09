@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; I'm studying Computer Engineering at Centro Unversitário do Norte
-- 🎓 &nbsp; I'm studying Web Development at Kenzie Academy Brasil]
+- 🎓 &nbsp; I'm studying Web Development at Kenzie Academy Brasil
 - I'm 20 years old
 - I'm from Tabatinga - Amazonas, living in Manaus - Amazonas
 
@@ -28,7 +28,7 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/deboralbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboralbarros&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deboralbarros&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
