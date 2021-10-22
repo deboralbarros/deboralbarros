@@ -4,8 +4,9 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; I'm studying Computer Engineering at Centro Unversitário do Norte
-- 🎓 &nbsp; I'm studying Web Development at Kenzie Academy Brasil
+- 🎓 &nbsp; I'm studying Computer Engineering at [Centro Unversitário do Norte](https://www.uninorte.com.br/)
+- 🎓 &nbsp; I'm a Full Stack Developer, with skills in ReactJs, React Native, Typescript, Django and a bit of NodeJs
+- 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native
 - I'm 20 years old
 - I'm from Tabatinga - Amazonas, living in Manaus - Amazonas
 
@@ -19,6 +20,11 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+  ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -41,5 +47,6 @@
 <a href="https://www.linkedin.com/in/debora-lbarros"><img src="https://img.shields.io/badge/-D%C3%A9bora%20Barros-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:debora12barros@gamil.com"><img src="https://img.shields.io/badge/-debora12barros@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_debora_barros"><img src="https://img.shields.io/badge/@_debora_barros-4C64D0?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href="https://instagram.com/dev_deborabarros"><img src="https://img.shields.io/badge/@dev_deborabarros-E75EA6?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCyUwdwpI_jaoiwFOzCbK69g"><img src="https://img.shields.io/badge/D%C3%A9bora%20Barros-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
+</a>
 </p>
