@@ -44,7 +44,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/debora-lbarros"><img src="https://img.shields.io/badge/-D%C3%A9bora%20Barros-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/debora-lbarros" target="_blank"><img src="https://img.shields.io/badge/-D%C3%A9bora%20Barros-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:debora12barros@gamil.com"><img src="https://img.shields.io/badge/-debora12barros@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://instagram.com/_debora_barros"><img src="https://img.shields.io/badge/@_debora_barros-4C64D0?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCyUwdwpI_jaoiwFOzCbK69g"><img src="https://img.shields.io/badge/D%C3%A9bora%20Barros-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
