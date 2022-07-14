@@ -5,9 +5,8 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; I'm studying Computer Engineering at [Centro Unversitário do Norte](https://www.uninorte.com.br/)
-- 🎓 &nbsp; I'm a Full Stack Developer, with skills in ReactJs, React Native, Typescript, Django and a bit of NodeJs
-- 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native
-- I'm 20 years old
+- 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native, TypeScript and other mobile techonologies
+- I'm 21 years old
 - I'm from Tabatinga - Amazonas, living in Manaus - Amazonas
 
 
@@ -46,7 +45,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/debora-lbarros" target="_blank"><img src="https://img.shields.io/badge/-D%C3%A9bora%20Barros-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:debora12barros@gamil.com"><img src="https://img.shields.io/badge/-debora12barros@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/_debora_barros"><img src="https://img.shields.io/badge/@_debora_barros-4C64D0?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a target="_blank" href="https://instagram.com/_d3bz_"><img src="https://img.shields.io/badge/@_d3bz_-4C64D0?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCyUwdwpI_jaoiwFOzCbK69g"><img src="https://img.shields.io/badge/D%C3%A9bora%20Barros-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
 </a>
 </p>
