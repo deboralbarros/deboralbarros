@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; I'm studying Computer Engineering at [Centro Unversitário do Norte](https://www.uninorte.com.br/)
 - 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native, TypeScript and other mobile techonologies
-- I'm 21 years old
+- I'm 22 years old
 - I'm from Tabatinga - Amazonas, living in Manaus - Amazonas
 
 
