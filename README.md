@@ -5,9 +5,9 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; I'm a Computer Engineer
-- 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native, TypeScript and other mobile techonologies
-- I'm 24 years old
-- I'm from Tabatinga - Amazonas, living in Manaus - Amazonas
+- 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native, TypeScript and other mobile technologies
+- 🗓️ &nbsp; I'm 24 years old
+- 📍 &nbsp; From Tabatinga - AM, currently living in Manaus - AM
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -16,7 +16,7 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescrypt](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+  ![TypeScrypt](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=React%20Native)
@@ -48,7 +48,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/debora-lbarros" target="_blank"><img src="https://img.shields.io/badge/-D%C3%A9bora%20Barros-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:debora12barros@gamil.com"><img src="https://img.shields.io/badge/-debora12barros@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="mailto:debora12barros@gmail.com"><img src="https://img.shields.io/badge/-debora12barros@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://instagram.com/_d3bz_"><img src="https://img.shields.io/badge/@_d3bz_-4C64D0?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCyUwdwpI_jaoiwFOzCbK69g"><img src="https://img.shields.io/badge/D%C3%A9bora%20Barros-FF0000?style=flat-square&logo=Youtube&logoColor=white"/>
 </a>
