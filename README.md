@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; I'm a Computer Engineer
 - 👩‍💻 &nbsp; I work as a Mobile Developer at [Esparta Tecnologia e Inovação](https://esparta.io/), using React Native, TypeScript and other mobile technologies
-- 🗓️ &nbsp; I'm 24 years old
+- 🗓️ &nbsp; I'm 25 years old
 - 📍 &nbsp; From Tabatinga - AM, currently living in Manaus - AM
 
 
